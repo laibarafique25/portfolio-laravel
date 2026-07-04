@@ -11,6 +11,7 @@
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
 <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
 <link href="https://unpkg.com/aos@2.3.4/dist/aos.css" rel="stylesheet">
+@vite(['resources/css/app.css', 'resources/js/app.js'])
 <style>
 :root{
   --bg:#0F172A; --card:#111827; --accent:#FF6B35; --text:#F8FAFC; --muted:#94A3B8;
